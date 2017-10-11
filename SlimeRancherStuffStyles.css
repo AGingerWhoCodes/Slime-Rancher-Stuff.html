@@ -1,0 +1,23 @@
+body {
+	background-color: #ba6cc1;
+}
+
+h1 {
+	font-family: Tahoma;
+	font-weight: bold;
+	border-radius: 100px;
+	border-width: 10px;
+	background-color: #e689ed;
+	border: 10px #000000;
+	text-align: center;
+}
+
+p {
+	font-size: 15px;
+	text-align: center;
+	font-family: Verdana;
+}
+
+h6{
+	font-size: 25px;
+}
